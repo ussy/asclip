@@ -11,7 +11,7 @@ How to use
 
 Please refer example HTML files under examples directory.
 
-Who use this library ?
+Who uses this library ?
 --------------------------------------
 1. [Cacoo](http://cacoo.com/)
 
